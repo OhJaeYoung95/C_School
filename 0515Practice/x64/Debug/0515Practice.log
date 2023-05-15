@@ -1,0 +1,6 @@
+﻿  main.c
+C:\OJY\C\0515Practice\main.c(29,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\OJY\C\0515Practice\main.c(55,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\OJY\C\0515Practice\main.c(137,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\OJY\C\0515Practice\main.c(151,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  0515Practice.vcxproj -> C:\OJY\C\0515Practice\x64\Debug\0515Practice.exe

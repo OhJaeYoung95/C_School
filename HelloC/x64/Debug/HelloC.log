@@ -1,0 +1,4 @@
+﻿  main.c
+C:\OJY\C\HelloC\main.c(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\OJY\C\HelloC\main.c(3,1): message : 이전에 명령줄에서 선언된 '_CRT_SECURE_NO_WARNINGS'
+  HelloC.vcxproj -> C:\OJY\C\HelloC\x64\Debug\HelloC.exe
