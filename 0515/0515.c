@@ -100,7 +100,7 @@ void Practice5()
 	char str[50] = { " " };
 	int strLength = sizeof(str) / sizeof(char);
 	int maxAsc = 0;
-	scanf("%s", str, sizeof(str));
+	scanf("%s", str);
 
 	for (int i = 0; i < strLength; i++)
 	{
