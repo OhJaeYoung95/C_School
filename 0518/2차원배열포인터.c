@@ -7,7 +7,7 @@ void Practice1()
 	int* arr2[3][5];
 
 	int** ptr1 = arr1;
-	int(*ptr2)[5] = arr2;
+	int* (*ptr2)[5] = arr2;
 
 	printf("%p\n", arr1);
 	printf("%p\n", ptr1);
@@ -67,7 +67,7 @@ void Practice5()
 
 	printf("Á¤´ä : %d\n", arr[1][0][1]);
 	printf("%d\n", (*(arr + 1))[0][1]);
-	printf("%d\n", (*(*(arr + 1) + 0))[1]);
+	printf("%d\n", *(*(arr + 1) + 0)[1]);
 	printf("%d\n", *(*(*(arr + 1) + 0) + 1));
 	printf("%d\n", (*(arr[1] + 0))[1]);
 	printf("%d\n", *(*(arr + 1)[0] + 1));

@@ -1,0 +1,10 @@
+﻿  0522C.c
+C:\OJY\C\0522\0522C.c(7,8): warning C4477: 'scanf' : 서식 문자열 '%c'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\OJY\C\0522\0522C.c(46,2): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\OJY\C\0522\0522C.c(47,22): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\OJY\C\0522\0522C.c(64,2): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\OJY\C\0522\0522C.c(66,2): warning C4013: 'strcat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\OJY\C\0522\0522C.c(94,3): warning C4013: 'strncpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\OJY\C\0522\0522C.c(96,6): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\OJY\C\0522\0522C.c(104,13): warning C4013: 'atoi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  0522.vcxproj -> C:\OJY\C\0522\x64\Debug\0522.exe
