@@ -1,0 +1,6 @@
+﻿  도전문제345번.c
+C:\OJY\C\0524\도전문제345번.c(32,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\OJY\C\0524\도전문제345번.c(34,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\OJY\C\0524\도전문제345번.c(53,12): warning C4098: 'CreateFile': 'void' 함수에서 값을 반환하고 있습니다.
+C:\OJY\C\0524\도전문제345번.c(49,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  0524.vcxproj -> C:\OJY\C\0524\x64\Debug\0524.exe

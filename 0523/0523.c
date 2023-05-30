@@ -340,6 +340,7 @@ void FilePractice4()
 
 	size = ByteCal(fp);
 	printf("%d", size);
+	fclose(fp);
 
 }
 
@@ -348,7 +349,7 @@ int ByteCal(FILE* file)
 	long fPos = ftell(file);
 
 	fseek(file, 0, SEEK_END);
-	int size = ftell(file);
+	int size = (int)ftell(file);
 	fseek(file, fPos, SEEK_SET);
 
 	return size;
